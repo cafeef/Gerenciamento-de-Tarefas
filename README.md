@@ -6,6 +6,6 @@ Um projeto efetuado na linguagem Python para gerenciar tarefas desejadas. O proj
 - Ver tarefas
 - Atualizar tarefas
 - Completar tarefas
-- Deletar tarefas completadas
+- Deletar tarefas
 
 Inspiração: Projeto de finalização do Módulo 1 - Formação Python (Rocketseat)
